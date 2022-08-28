@@ -24,4 +24,5 @@ min-height: 175px;
 }
 .card{
   min-height: 420px;
+  max-height: 420px;
 }
